@@ -6,6 +6,7 @@ body {
   padding: 2rem;
   color: #333;
   transition: background-color 0.4s ease, color 0.4s ease;
+  
 }
 
 body.dark {
@@ -18,30 +19,6 @@ body.dark {
   align-items: center;
   flex-wrap: wrap;
   margin-bottom: 1.5rem;
-}
-.typewriter {
-  font-family: monospace;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid black;
-  font-size: clamp(1.5rem, 4vw, 2.5rem);
-  width: 0;
-  animation:
-    typing 2.5s steps(15, end) forwards,
-    blink-caret 0.75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 15ch; }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: black; }
-}
-body.dark .typewriter {
-  border-color: #f2f2f2;
 }
 .toggle-button {
   padding: 0.5rem 1rem;
@@ -102,30 +79,7 @@ body.dark .toggle-button:hover {
   line-height: 1.6;
   font-style: italic;
   margin-top: 1rem;
-}
-.favorite-button {
-  margin-top: 1rem;
-  padding: 0.5rem 1rem;
-  border: 1px solid #999;
-  background-color: #fff;
-  color: #333;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.favorite-button:hover {
-  background-color: #f0f0f0;
-}
-
-body.dark .favorite-button {
-  background-color: #222;
-  color: #eee;
-  border-color: #666;
-}
-
-body.dark .favorite-button:hover {
-  background-color: #333;
+  text-align: center;
 }
 .back-link {
   display: inline-block;
