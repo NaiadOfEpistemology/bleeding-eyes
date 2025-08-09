@@ -12,25 +12,31 @@ export default function App() {
   }, [darkMode]);
 
   return (
+    <>
+    
     <BrowserRouter>
       <div className="app-container">
       <header className="header">
   <div className="logo-title">
-    
+  
   <img src="/spiderpng.png" alt="Bleeding Eye" className="logo" />
   </div>
+  
   <button onClick={() => setDarkMode(!darkMode)} className="toggle-button">
     {darkMode ? 'Light Mode' : 'Dark Mode'}
   </button>
 </header>
 
         <main className="main-content">
+        
           <Routes>
+            
             <Route path="/" element={<PoemsList />} />
             <Route path="/poem/:id" element={<PoemView />} />
           </Routes>
         </main>
       </div>
     </BrowserRouter>
+    </>
   );
 }
