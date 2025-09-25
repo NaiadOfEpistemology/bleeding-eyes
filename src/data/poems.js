@@ -183,5 +183,88 @@ export const poems = [
 \nYou don’t scare me anymore.
 \nYou’re just a frame for the war
 \nI was born to win.`
+    },
+    {
+      id: "whereiendthereshebegan",
+      title: "Where I End There She Began",
+      content: `I woke up as usual. Or at least, I thought I had. My alarm had already rung hours ago, at 4:15, and yet when I looked at the clock, it read 2:45. The hands moved backwards, tick by tick, as if time itself was rejecting me.
+
+I looked outside. The sky wasn’t dark, not exactly. It was a suffocating red, too bright to be night, too heavy to be day. The sun hung there like a wound. Black at the center, bleeding light around the edges. I shut the curtains quickly, telling myself it was just a dream, an uncomfortable illusion.
+But when I crawled back into bed, I realized the warmth of the blanket didn’t reach me. My clothes were cold against my skin. I curled tighter, desperate for comfort that wasn’t coming.\n
+
+When I woke again, it was six. The world outside pretended to be normal. I hadn't looked at the sky; I didn't want to. But something clung to me, a thickness in the air, a reminder that the dream had followed me back.
+
+I set out that day. Somewhere far away, I told myself. Somewhere I could meet someone who might finally see me, hear me, hold me in a way that didn’t leave me aching. I thought of the things I’d said before, the conversations that ended with silence, with my words floating unanswered. Every step was heavy with the weight of being dismissed, blamed, made small for wanting more.\n
+
+The streets blurred. I wasn’t sure if I was walking through a city or a memory. Doors opened to rooms I’d left behind. It was all stitched together in a way that felt wrong.\n
+
+And then I saw her.\n
+
+She stood in the middle of the road, still as stone. A woman like me. Same height, same hair, same me. But where her face should have been.\nNothing.\n Just skin, stretched smooth, erasing her mouth, her eyes, her voice.\n
+
+I froze. My chest hurt as though I was the one without a mouth, as though my own voice had been stolen.\n
+
+And then she spoke. Not with lips. She had none, but the words pressed into my skull, cold and sharp.\n
+
+“You think you’ll ever be heard?” she said.\n
+
+I just stood there staring at her.\n
+
+“You talk. You plead. You write. And every time, everyone walks away. They don’t answer. They don’t care. They don't want to. And still you follow. Still you hope.”\n
+
+Her head tilted as if she knows what she just did.\n
+
+“You’ll never get there. There's nowhere to go.”\n
+
+I wanted to scream at her. Tell her she was wrong, that someone would listen, that I wasn’t just an echo or an afterthought. But my throat tightened. No words came out.\n
+
+The road behind me had vanished. The road ahead stretched endlessly, bleeding into the same red horizon I had seen in the sky. And she stood blocking the way forward. Her arms seemed unusually long.\n
+
+I forced myself to move, to take one step, then another. Her body didn’t shift, but somehow she was always closer, always in front of me.
+
+“Stop chasing people who don’t see you,” she said, voice like the grinding of broken glass inside my head. “Nobody will ever save you. Nobody will come for you. You don't mean anything to anybody, not even me.”\n
+
+I closed my eyes. My cheeks grew hot and I felt tears form. And the ugly familiar lump in my throat. For a moment, I thought if I opened them again, she’d be gone, like a nightmare collapsing with daylight. But when I looked, she was there. Closer now, her blank face inches from mine.\n
+
+“You know what I am?” she whispered inside me.\n
+
+I didn’t answer. I didn't, and I still don't know who she is, but I knew what she was.\n
+
+The horizon flickered. The road began to crack. Somewhere, far away, I thought I heard my name, but I couldn’t tell if it was real, or just another cruel trick.
+
+I tried to run, but every step dragged me deeper into the red. My chest burned with words I couldn’t say. And then I stopped.\n
+I didn’t run.\n
+
+Something older than fear loosened inside me. Not courage, not exactly, but a tiredness so complete that resistance felt like pretending. She waited with the patience of someone who has watched life undo itself a thousand times. Her blank skin caught the red light and did not reflect it; she looked like the memory of a person, edited down to the bones of what was left after everyone else had left.
+
+I stepped forward until there was no space between us. The air smelled like cold metal and rain. For a stupid second, I expected her to reach for me, to take my hands and prove she was real. Instead she only leaned in, a small movement that meant everything. Her presence folded into me like a seam being closed.\n
+
+I put my arms around her because there was nothing else to do. I wanted to hold her. Wanted to clutch whatever she was and whatever was left of myself.\n
+
+The first thing that changed was the sound. All the old echoes of being unheard tightened into a single, enormous ringing behind my eyes that was equal parts accusation and lullaby. It was my own voice, and not my own. Memories crowded in, not in order but in the way things do when you shake a shoebox of photographs: a laugh from a ruined conversation, a message left on read that had lived inside me for weeks, the texture of a hand that had gone away before it learned how to stay. They pressed against the inside of my skull and made me dizzy.\n
+
+She fit into me the way grief fits into ordinary life. A reshaping you feel in your joints. I felt the cumulative weight of every small dismissal I had swallowed. Those minor cruelties aggregated into a contour that matched the hollow where her features should have been.\n
+
+And then her silence became my language. I did not lose voice so much as gain an extra register; thoughts came with a texture that was not exactly mine. I could feel her impatience with my small hopes, the hard logic under her absence that had grown like a weed: people do not arrive because you wait; they arrive when they are ready, or they do not arrive at all. Her certainty was a blunt instrument; my hope had always been a thin, fraying thread. In that embrace they braided into something that might be stronger, might snap.
+
+I saw, in a way that made my stomach lurch, the edges of myself sharpen and blur at once. My private shame, the ways I had folded myself small to be tolerated spread outward like a stain. But the fold also unstitched something: I could feel the outlines of my anger plainly, with no softening. It was not pretty. It was necessary.\n
+
+We became a single thing like two currents running into the same river. It was slow and quiet. I had hugged the part of me that wanted to slap some sense into me all my life, and she had folded into my bones.\n
+
+For a breath that was not mine, I understood why I had kept chasing people who didn’t answer. It was less about them than about the habit of believing presence could be earned by persistence. Presence, I felt then, is not a commodity you barter for; it is either given freely, or you make shelter for yourself.\n
+
+The world recalibrated. \n
+Her thoughts; my thoughts, sifted through the familiar grievances. I relived the sting of being told to “stop caring so much,” the thinness of apologies that were never followed by change, the pattern of being dismissed with that patronizing kindness people mistake for sympathy. Those memories no longer sat like uncollected receipts in a drawer. They stacked into a building block of clarity. I could name the injuries without flinching. Naming did not fix them, but it stopped them from moving in the dark.\n
+
+And still there was terror. Not the immediate, cinematic kind, but the slow, existential kind that asks what you become if you take home all the parts of yourself you once abandoned. If the faceless woman was the residue of my being left behind, then merging with her meant I was taking responsibility for every abandoned fragment. That frightened me because responsibility can be a room with no exit.\n
+
+We walked, or maybe the world flowed around us; the difference felt semantic. It was as if the change had the etiquette of an injury visible only to me. I held the outline of the facelessness inside my chest like a fossil, examining edges and textures. It was not peaceful. It was precise. I had sharpened into a shape that might cut.
+
+When we reached the place that had been my imagined destination, there was no one waiting. The idea of that person, which had been small and bright enough to start me walking, was gone or always had been a hollow dream. \nInstead, there was a mirror propped against the side of a low brick wall.\n
+
+I stepped closer because that is what you do when you need an answer. Across from me, the faceless woman positioned herself as she had been all along, not separate but folded into me. I could feel her where my jaw tightened, in the small crescent of my ear, in the place behind my heart where old apologies sat like coins.\n
+
+I looked into the mirror.\n
+`
     }
 ];
