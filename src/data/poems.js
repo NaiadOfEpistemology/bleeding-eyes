@@ -266,5 +266,49 @@ I stepped closer because that is what you do when you need an answer. Across fro
 
 I looked into the mirror.\n
 `
+    },
+    {
+      id:'ashrose',
+      title:"Hideous beauty",
+      content:`There’s a kind of death that doesn’t need blood or silence to exist.\n
+It happens slowly. \n
+In daylight, between polite smiles and nods. You start to rot from the inside while everyone around you insists you look fine.\n
+
+I’m burnt out. Not from study. Not from work. Not from life. From people.\n
+
+From the constant, buzzing noise of others who demand to be seen while never really looking at you. From the way they ask how you are only so they can talk about themselves. From the endless apologies that sound like pity, not remorse.
+They drain you and call it connection. They misunderstand you and call it concern.\n
+
+I used to think love could fix that. I still do. That patience could soften the indifference, that empathy could teach them and me how to care. But empathy is a sad thing when it’s one sided. You pour and pour until your soul is empty and aching, and still, someone asks why you’ve become distant.\n
+
+You start to fade in strange ways. You forget how to talk about yourself. You look into the mirror and practice the perfect smile for them. You forget how to cry without shame. You start apologizing before you even speak.
+You become quiet in a way that feels irreversible.\n
+
+People mistake this for growth. The way you no longer fight back, the way you nod when you’re blamed, the way you stay calm while your insides twist.
+But it’s not growth. It’s corrosion. It’s surrender disguised as peace.\n
+
+Sometimes I think I’ve learned too much about people. How they can use kindness like a weapon. How they can wound you gently, without ever raising their voice.\n
+They call it many different names. But you learn to recognize the undertone. The faint scent of control, the quiet expectation that you’ll always be available to absorb their storms.\n
+
+You start to despise the sound of your own name in their mouths.\n
+It sounds like ownership. Everytime you open your mouth to talk to them, it feels like you've swallowed sand.\n
+
+And yet, you keep them around. \n
+Out of guilt. \n
+Out of fear. \n
+Out of habit. \n
+You tell yourself you can’t afford to lose more people, even if the ones you have are already killing you bit by bit. Pixel by pixel. Message by message.\n
+
+There’s no single breaking point, no dramatic ending. Just a gradual detachment. A quiet unhooking of your soul from the world.\n
+You smile less. You speak less. You start to exist behind glass, watching yourself interact, pretending you’re still human. You'll be fine, better actually, but you're not actually thriving. \n
+
+And one day, you realize something terrifying.\n
+You’ve become the ghost they always accused you of being.\n
+
+You look at your reflection and there’s no grief left. There is just the faint memory of it.\n
+You don’t hate them. You don’t love them either.\n
+You just don’t care.\n
+
+The slow, beautiful stillness of ash mystifies me.\n`
     }
 ];
