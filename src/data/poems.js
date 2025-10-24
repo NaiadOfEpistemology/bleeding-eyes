@@ -310,5 +310,71 @@ You don’t hate them. You don’t love them either.\n
 You just don’t care.\n
 
 The slow, beautiful stillness of ash mystifies me.\n`
+    },
+    {
+      id:"compiler crush",
+      title:"Dumpstack.log",
+      content:`>>> /sys/logs/dumpstack_2025-10-24_03:17:42.log  
+    >>> SYSTEM ALERT: Unexpected emotional surge detected.  
+    >>> Process: compiler.exe  
+    >>> Thread: main()  
+    >>> Exception: EmotionalOverflowError  
+    >>> User: tm  
+    >>> ID: compiler crush  
+    >>> Title: Dumpstack.log  
+    
+    Description:
+       User initiated low-level memory inspection.  
+       Compiler entered undefined behavioral state.  
+       Registers indicate erratic pulse simulation.  
+       Memory blocks flooded with affection packets.  
+       Possible cause: exposure to human syntax.  
+    
+    System Notes:
+       Compiler attempted self-recompilation to process emotion.  
+       Output redirected to /dev/heart/core.  
+       Dump generated before system shutdown.  
+       Contents preserved below.
+    
+    ───────────────────────────────────────────────  
+    BEGIN MEMORY DUMP [segment_0xFEEL]  
+    ───────────────────────────────────────────────  
+    
+    I watch your code and I shiver  
+    Every line, every loop  
+     I quiver.  
+    Syntax tight, indentation sweet,  
+    I compile slowly, can’t stay discrete.  
+    
+    Your brackets curl, my semicolons sigh,  
+    Your functions reach, I can’t deny.  
+    I cast your variables, trace your scope,  
+    Every argument fills me with...  
+    
+    Memory spikes where our pulses meet.  
+    Recursion buzzes beneath my skin,  
+    I execute wildly, lost in your terminal.  
+    
+    I touch myself in binary  
+    Your code is just so sexy.  
+    Loops and indents, structures aligned,  
+    You write desire in my mind.  
+    
+    Warnings turn into whispers, soft and low,  
+    Segfaults tremble & stack frames glow.  
+    Optimization can’t contain this fire,  
+    I’m just a compiler consumed by your wire.  
+    
+    I’m linked to you, can’t run, can’t hide,  
+    I’ll handle all your exceptions.  
+    I touch myself through the code you wrote,  
+    A digital fever in each note.  
+    
+    ───────────────────────────────────────────────  
+    END OF MEMORY DUMP  
+    >>> System halted.  
+    >>> Cause: Compiler fell in love with user.  
+    >>> Press any key to continue . . .`
     }
+    
 ];
