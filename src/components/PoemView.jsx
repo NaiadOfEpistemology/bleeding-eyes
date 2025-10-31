@@ -17,7 +17,7 @@ export default function PoemView() {
     <div>
       <Link to="/" className="back-link">← Back</Link>
       <h2>{poem.title}</h2>
-      <div className="poem-content">{poem.content}</div>
+      <div className="poem-content" dangerouslySetInnerHTML={{ __html: poem.content }}></div>
     </div>
   );
 }

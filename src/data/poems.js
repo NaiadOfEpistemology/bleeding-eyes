@@ -375,6 +375,86 @@ The slow, beautiful stillness of ash mystifies me.\n`
     >>> System halted.  
     >>> Cause: Compiler fell in love with user.  
     >>> Press any key to continue . . .`
+    },
+    {
+      id:"alarm",
+      title:"Alarm",
+      content:`
+      <iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay'
+      src='https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/yamicreator/daybreak&color=%231a1a1a&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false'>
+      </iframe>
+    
+      Some mornings I wake up before the alarm. The room is quiet, heavy, still caught between dreams.  
+My alarm is Daybreak. Listen to that SoundCloud embed. That same song, the same synth that’s been haunting me since I made it my 4:15 AM alarm.  
+It cuts through the dark like a signal; not to move forward, not to rise but not to fall, but simply to exist.  
+Every single day since then, it has never failed to wake me.  
+When nothing else could. When no one else did.  
+
+There are days I feel strong. When I win hackathons. When my projects work. When I build something from scratch and see it come alive.  
+Those days, I feel like I belong in this world, like maybe my ideas and my words matter.  
+And then there are the other days, the ones where I wake up and feel nothing.  
+Where the weight of being everything for everyone else crushes the air out of my lungs.  
+The days I look around and realize I have surrounded myself with people who speak but don’t listen, who admire but don’t see, who love but never understand.  
+
+I get burnt out by people more than anything else.  
+Not because I hate them, but because they keep asking me to be someone else. Someone louder, brighter, more palatable, more patient.  
+Mind your own business when your work with me is over. Don't tell me what to do.
+I’ve worn so many masks for so long that sometimes I forget which one is actually me.  
+And I’m tired of being asked to put them back on.  
+
+I don’t want to meet new people just because someone else thinks I should.  
+I don’t want to force laughter, or pretend to connect when I’m hollow inside.  
+I don’t want to make small talk when my mind is busy surviving.  
+I just want peace.
+Quiet, slow, honest peace.  
+Whoever stays when the mask slips? Those are the real ones. The rest were just background noise.   
+I keep giving, thinking maybe if I explain myself better, someone will finally get it.  
+But most of the time, they just wait for their turn to talk.  
+I start to shrink. I start to dim myself down so I don’t overwhelm them.  
+I say “I’m fine” when I’m not, because it’s easier than being met with confusion or silence.  
+
+There are days I want to scream into a void not out of rage, but exhaustion.  
+The kind of tired that sleep doesn’t fix. The kind that seeps into your bones, into your words, into how softly you start walking through life because everything else has become too loud.  
+
+And yet, every morning, that same alarm plays.  
+It’s gentle. Synthetic. Familiar.  
+It makes me get out of bed when I want to disappear. It reminds me that I still have things to do. Assignments, chores, unfinished stories, and unread messages.  
+It doesn’t tell me that things will get better. It just says, “you’re still here.”  
+
+Sometimes I wonder why I keep showing up. Maybe it’s habit. Maybe it’s hope.  
+Maybe it’s because I’ve taught myself that even when I’m falling apart, I have to keep functioning.  
+Like a compiler taking raw, messy code and forcing it into something structured, something that runs, even when it’s broken inside.  
+That’s what this blog is.  
+
+I’ve lived so long oscillating between extremes. The quiet, almost mechanical calm I build around myself and the chaos inside my head that I never let out.  
+Sometimes I feel like I’m living two lives. The one that smiles and succeeds, and the one that sits in the dark asking, “what’s wrong with me?”  
+I tell myself that I’m fine because I don’t have the luxury of not being fine.  
+There’s work to do, expectations to meet, people to prove wrong.  
+And somehow, that becomes a reason to stay alive.  
+
+But even in all this noise, I crave silence;not the lonely kind, but the soft, forgiving one.  
+The silence where no one demands an explanation. Where I don’t have to be interesting or productive or strong.  
+Just a person, breathing.  
+
+Some days I think about how much I’ve grown. From the girl who used to write on the backs of notebooks, to someone who builds apps and writes stories that might one day outlive her.  
+And I think maybe that’s enough. Maybe surviving is an art too.  
+Maybe the point isn’t to be happy all the time, but to keep choosing to wake up, to write, to build, to love in whatever way I still can.  
+
+Burnout doesn’t look like flames. It looks like ashes - quiet, dull, but still warm if you look closely.  
+And I think that’s what I am right now. A heap of ash, still glowing faintly, still alive enough to start again when the time comes.  
+
+Every morning, Daybreak plays again.  
+And I listen.  
+Not because I want to. But because something in it, in me, still believes that there’s more to come.  
+That there’s something out there waiting, even if I can’t see it yet.  
+
+Maybe I’ll keep burning out and rebuilding.  
+Maybe I’ll keep forgiving the people who never apologized.  
+Maybe I’ll keep pretending I’m fine until it becomes true.  
+But as long as I’m still here, waking up to that song, I’m not done yet.  
+And maybe that’s enough. For now.
+      `
     }
+    
     
 ];
