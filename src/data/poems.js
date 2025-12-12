@@ -454,6 +454,69 @@ Maybe I’ll keep pretending I’m fine until it becomes true.
 But as long as I’m still here, waking up to that song, I’m not done yet.  
 And maybe that’s enough. For now.
       `
+    },
+    {
+      id:"renounce",
+      title:"Renounce",
+      content:`I’ve lived a hundred different lives already.
+Like pieces of old versions of me are scattered somewhere. Girls who trusted too easily, girls who apologized for breathing too loudly, girls who dimmed themselves because the room couldn’t handle the wattage.
+I look for them sometimes, but halfway through, I decide I'm done.
+Maybe that’s a blessing.
+
+Lately it feels like the world has been trying to study me from a distance.
+People whisper, speculate, invent stories to fill the silence because I refuse to give them one.
+Funny how my quiet shakes more rooms than other people’s shouting.
+Maybe it’s because I finally learned the one thing no one ever taught me:
+you don’t owe anyone access to you just because they want it.
+
+I’ve realised that the more I grow, the smaller my circle becomes.
+Not because I’m lonely,
+but because my peace has standards now.
+I don’t let just anyone sit at my table.
+Not everyone deserves to know what I’m building, what I'm going through, or where I’m heading, or who I’m becoming.
+Some people only show up when they need light, forgetting that I’m not a lamp anymore.
+
+And yes, I get tired.
+People talk like resilience is effortless, like strength is a default setting.
+It’s not.
+It’s built, layer by layer, out of disappointments, hot showers where the water runs cold halfway through, late nights, empty highways, long silences, and the stubborn refusal to break.
+Some nights I lie awake staring at the ceiling, at the fan that whirs slowly, thinking about everything I’ve survived without ever telling a soul.
+And it hits me, quietly that I didn’t get softer, I got sharper.
+
+These days I don’t try to explain myself.
+If someone misunderstands me, I let them.
+If they fill the blanks with whatever makes their story easier, I let them.
+If they think my silence means weakness, I let them.
+I’ve stopped correcting people who never cared about the truth.
+Let them talk.
+Let them guess.
+Let them burn themselves on the edges of the version of me they never bothered to understand.
+
+Because I’m not the person I used to be.
+I’ve become someone who can rebuild herself from scratch on a weekday afternoon and still show up the next morning like nothing happened.
+Someone who can hold her ground even when the whole world twists sideways.
+Someone who cries all night and smiles at the mirror the next morning.
+Someone who chose herself so unapologetically that people mistake it for arrogance.
+Let them.
+
+I’m choosing a life where I don’t shrink.
+Where I don’t explain my boundaries.
+Where I don’t chase anything that runs.
+Where I don’t carry the weight of anyone else’s chaos on my back.
+Where my dreams are bigger than my fears and louder than the noise around me.
+
+And maybe I’m still figuring things out.
+Maybe I’m still learning how to breathe in this new atmosphere.
+But I know this much.
+I’m not going back to the version of myself who begged to be understood.
+I’m not dimming my fire for people who never learned how to hold warmth.
+And I’m definitely not apologizing for the way I rise.
+
+If that intimidates them, so be it.
+If it inspires them, good.
+Either way, I’m moving.
+
+`
     }
     
     
