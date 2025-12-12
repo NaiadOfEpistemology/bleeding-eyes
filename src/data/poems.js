@@ -501,7 +501,7 @@ Let them.
 
 I’m choosing a life where I don’t shrink.
 Where I don’t explain my boundaries.
-Where I don’t chase anything that runs.
+Where I don’t chase anything that runs from me.
 Where I don’t carry the weight of anyone else’s chaos on my back.
 Where my dreams are bigger than my fears and louder than the noise around me.
 
