@@ -2,7 +2,7 @@ export const poems = [
     { id: "about-me", 
       title: "Who I Am", 
       content: `I appreciate your interest in coming here. 
-      \nI am TM. I am an author. And a screenwriter. I published two e books in 2020. After that, I had to go back to school. I am currently pursuing a degree in Computer Science, which I like. I am also an AI Engineer intern, and a curriculum developer. 
+      \nI am TM. I am an author. And a screenwriter. I published two e books in 2020. After that, I had to go back to school. I am currently pursuing a degree in Computer Science, which I like. I currently work as a Java dev intern at a well known MNC. I also worked as an AI Engineer intern, and a curriculum developer. 
       \nI like to write poetry, short stories, and novels. I also like to write code. This is a break from the usual things I do. I am getting back to doing what I once liked. 
       \nI hope you like my works. These are a collection I've found scattered around everywhere, in my notes, at the back of my books, stray papers. 
       \nI do not have any social media except where you came from. 
@@ -517,6 +517,29 @@ If it inspires them, good.
 Either way, I’m moving.
 
 `
+    }, 
+    {
+      id:"notitle",
+      title:"xoxo",
+      content:`Silver echoes fading slow\n
+Hands let go of what we know\n
+What was once shared refrain\n
+Is now a door that won’t remain open again\n
+
+One walked on with steady light\n
+Choosing truth over the fight\n
+The other turned, hardened inside\n
+Letting bitterness be their guide\n
+
+Oh time, show me the light\n
+I know I am there…\n
+Through the dark I still can see\n
+Who I’m becoming, quietly free\n
+
+What once aligned now drifts apart\n
+Some distances outgrow the start\n
+Curtains close with a ripple\n
+And never turn when paths come round\n`
     }
     
     
