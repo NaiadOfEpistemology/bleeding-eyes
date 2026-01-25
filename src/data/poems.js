@@ -1,6 +1,7 @@
 export const poems = [ 
     { id: "about-me", 
       title: "Who I Am", 
+      date:"2025-07-19",
       content: `I appreciate your interest in coming here. 
       \nI am TM. I am an author. And a screenwriter. I published two e books in 2020. After that, I had to go back to school. I am currently pursuing a degree in Computer Science, which I like. I currently work as a Java dev intern at a well known MNC. I also worked as an AI Engineer intern, and a curriculum developer. 
       \nI like to write poetry, short stories, and novels. I also like to write code. This is a break from the usual things I do. I am getting back to doing what I once liked. 
@@ -12,9 +13,188 @@ export const poems = [
       \nIf you know me in real life, I apologize. 
       \nThat's it about me. Have a good day or good night, wherever you're from.`
     }, 
+    { id:"why", 
+      title:"What People Think Of Me",
+      date:"2025-07-19", 
+      content:`I live in a loving home. Bless my family. I guess it's all in my head when they say all these things. Forget the outside world. Everyone thinks being loud is cool (spoiler : it is not). Everyone thinks being a jerk is cool (spoiler : it is, also, not). Seriously, why do some people behave the way they do? Is it really that bad to be a bit considerate of the people around you? 
+      \nNow I preach the stuff I don't practice. "Take deep breaths while you're crying" is what I say, but I find myself gasping for air when I cry. "Don't be so hard on yourself" is what I say, but I beat myself over things that are not supposed to affect you. 
+      \nThis is all very tiring. I'm sure you feel the same. If you're totally opposite to me, that's fine. I appreciate the outlook. If you used to be like me, I appreciate your boldness and spirit. It takes a lot to be like that. 
+      \nI am kind even when nothing works out. I have everything I want. Like I'm cleanly ripped apart by something sharp, which I cannot place. 
+      \nWhat do you feel when you see someone in their true form? Without the mask they wear? Do you feel like you know them? Do you feel like you can relate to them? Or do you feel like you're looking at a stranger? 
+      \nIt scares me when I look at someone I once clearly adored but now, feel nothing for them. How do you deal with this? It helps to think the person you saw was hypothetical, that they don't exist. Makes it easier during those sleepless nights caused by stray thoughts like these eating away at you. 
+      \nIf you want to be a better person, you don't have to do anything. Just listen to what the other person has to say. Be the change you want to see. It's all up to you. If I can do it, so can you. If you've read this till here, you and I are not so different. Both of us are looking for the same thing. Perhaps, we can find it together. 
+      \nKnow your worth. You deserve to be happy, even if it means being alone. While you can, nip whatever problem you have in the bud before it grows and becomes a parasite that feeds on your happiness. Don't let it grow. Don't let it take over yourself. 
+      \nI hope you find what you're looking for. I hope you find peace. I hope you find love. I hope you find yourself.` 
+    }, 
+    {
+      id:"nostalgia",
+      title:"Nostalgia",
+      date:"2026-01-25",
+      content:`Nostalgia is not gentle.  
+\nIt arrives uninvited,  
+\nlike a storm that rattles the windows  
+\nof a house I no longer live in.  
+
+\nThe photographs are cruel.  
+\nThey smile with lips that no longer speak,  
+\neyes that no longer look.  
+\nI press my fingers against the screen,  
+\nas if warmth could seep back into them,  
+\nbut the pixels have no sense.  
+
+\nMy mother does not smile anymore,
+\nher silence is heavier than words.
+\nMy father looks older than I ever thought he would,
+\nhis face carved by years I never counted.
+\nThe house feels dimmer when they sit together,
+\ntwo shadows where once there was light.
+\nI watch their hands tremble over simple tasks,
+\nand realize time has stolen their ease.
+\nTheir voices are softer now,
+\nas if even memory tires of speaking.
+
+\nThe rooms of my memory are crowded.  
+\nEvery corner holds a shadow.
+\nI walk through them slowly,  
+\ntouching the walls,  
+\nfeeling the dust of years  
+\nsettle on my skin.  
+
+\nIt is sweet indeed
+\nto remember the taste of summer,  
+\nto hear a song from my childhood,
+\nthe sound of footsteps running toward me.  
+\nBut sweetness dissolves too quickly,  
+\nand what remains  
+\nis saturation into gloom.  
+
+\nNostalgia brings tears to my eyes,  
+\nnot because I wish to return,  
+\nbut because I cannot.  
+\nThe past is a town
+\nwhose borders are closed,  
+\nwhose language I have forgotten,  
+\nwhose streets I can only wander  
+\nin dreams.  
+
+\nAnd so I carry it,  
+\nlike a human damned to do so.
+\nIt lights the path ahead,  
+\nbut burns my heart,  
+\nreminding me with every step  
+\nthat I will never go back.  
+
+\nI walk on,  
+\neyes blurred,  
+\nheart heavy,  
+\nknowing nostalgia is the price  
+\nof having lived at all.  
+`
+    },
+    {
+      id:"relapse",
+      title:"Relapse",
+      date:"2026-01-23",
+      content:`I clawed my way out
+\nwith bitten nails and rage.
+\nDid the storm ever notice?
+\nOr did it just sigh when I stopped answering?
+
+\nI carried the weight alone,
+\nsmiled through the narrowing,
+\nbuilt a spine
+\nfrom the days I thought would break me.
+\nThey say it’s always winter in my mind.
+
+\nI carried the weight alone,
+\nsmiled through the narrowing,
+\nlearned that pressure doesn’t break me
+\nit only teaches me how to dance.
+
+\nThe mirror called me a masochist.
+\nbecause I enjoyed the way life fucked me up
+\nI learned to endure
+\nbecause endurance was the only thing
+\nthat didn’t leave.
+\nI’d let you walk all over me
+\nuntil your energy runs out,
+\nuntil the novelty dies down
+\nuntil I become background noise
+\nleaving me to my delusions.`
+    },
+    {
+      id:"notitle",
+      title:"xoxo",
+      date:"2025-12-12",
+      content:`Silver echoes fading slow\n
+Hands let go of what we know\n
+What was once shared refrain\n
+Is now a door that won’t remain open again\n
+
+One walked on with steady light\n
+Choosing truth over the fight\n
+The other turned, hardened inside\n
+Letting bitterness be their guide\n
+
+Oh time, show me the light\n
+I know I am there…\n
+Through the dark I still can see\n
+Who I’m becoming, quietly free\n
+
+What once aligned now drifts apart\n
+Some distances outgrow the start\n
+Curtains close with a ripple\n
+And never turn when paths come round\n`
+    },
+    {
+      id:'ashrose',
+      title:"Hideous beauty",
+      date:"2025-11-10",
+      content:`There’s a kind of death that doesn’t need blood or silence to exist.\n
+It happens slowly. \n
+In daylight, between polite smiles and nods. You start to rot from the inside while everyone around you insists you look fine.\n
+
+I’m burnt out. Not from study. Not from work. Not from life. From people.\n
+
+From the constant, buzzing noise of others who demand to be seen while never really looking at you. From the way they ask how you are only so they can talk about themselves. From the endless apologies that sound like pity, not remorse.
+They drain you and call it connection. They misunderstand you and call it concern.\n
+
+I used to think love could fix that. I still do. That patience could soften the indifference, that empathy could teach them and me how to care. But empathy is a sad thing when it’s one sided. You pour and pour until your soul is empty and aching, and still, someone asks why you’ve become distant.\n
+
+You start to fade in strange ways. You forget how to talk about yourself. You look into the mirror and practice the perfect smile for them. You forget how to cry without shame. You start apologizing before you even speak.
+You become quiet in a way that feels irreversible.\n
+
+People mistake this for growth. The way you no longer fight back, the way you nod when you’re blamed, the way you stay calm while your insides twist.
+But it’s not growth. It’s corrosion. It’s surrender disguised as peace.\n
+
+Sometimes I think I’ve learned too much about people. How they can use kindness like a weapon. How they can wound you gently, without ever raising their voice.\n
+They call it many different names. But you learn to recognize the undertone. The faint scent of control, the quiet expectation that you’ll always be available to absorb their storms.\n
+
+You start to despise the sound of your own name in their mouths.\n
+It sounds like ownership. Everytime you open your mouth to talk to them, it feels like you've swallowed sand.\n
+
+And yet, you keep them around. \n
+Out of guilt. \n
+Out of fear. \n
+Out of habit. \n
+You tell yourself you can’t afford to lose more people, even if the ones you have are already killing you bit by bit. Pixel by pixel. Message by message.\n
+
+There’s no single breaking point, no dramatic ending. Just a gradual detachment. A quiet unhooking of your soul from the world.\n
+You smile less. You speak less. You start to exist behind glass, watching yourself interact, pretending you’re still human. You'll be fine, better actually, but you're not actually thriving. \n
+
+And one day, you realize something terrifying.\n
+You’ve become the ghost they always accused you of being.\n
+
+You look at your reflection and there’s no grief left. There is just the faint memory of it.\n
+You don’t hate them. You don’t love them either.\n
+You just don’t care.\n
+
+The slow, beautiful stillness of ash mystifies me.\n`
+    },
     { 
       id:"hair", 
       title:"Long Long Hair", 
+      date:"2025-07-19",
       content:`When the memory of long, long hair returns, 
       \nthere will be nowhere to find it. 
       \nNo strands on the sheets, 
@@ -37,6 +217,7 @@ export const poems = [
     }, 
     { id: "my-eyes-hear", 
       title: "My Eyes Hear", 
+      date:"2025-07-19",
       content:`My eyes hear the sound of your voice, 
       \nA melody that dances through the air, 
       \nEach word a note, 
@@ -53,20 +234,10 @@ export const poems = [
       \nFor in your voice, I found a light, 
       \nBefore you went and smothered it.` 
     }, 
-    { id:"why", 
-      title:"What People Think Of Me", 
-      content:`I live in a loving home. Bless my family. I guess it's all in my head when they say all these things. Forget the outside world. Everyone thinks being loud is cool (spoiler : it is not). Everyone thinks being a jerk is cool (spoiler : it is, also, not). Seriously, why do some people behave the way they do? Is it really that bad to be a bit considerate of the people around you? 
-      \nNow I preach the stuff I don't practice. "Take deep breaths while you're crying" is what I say, but I find myself gasping for air when I cry. "Don't be so hard on yourself" is what I say, but I beat myself over things that are not supposed to affect you. 
-      \nThis is all very tiring. I'm sure you feel the same. If you're totally opposite to me, that's fine. I appreciate the outlook. If you used to be like me, I appreciate your boldness and spirit. It takes a lot to be like that. 
-      \nI am kind even when nothing works out. I have everything I want. Like I'm cleanly ripped apart by something sharp, which I cannot place. 
-      \nWhat do you feel when you see someone in their true form? Without the mask they wear? Do you feel like you know them? Do you feel like you can relate to them? Or do you feel like you're looking at a stranger? 
-      \nIt scares me when I look at someone I once clearly adored but now, feel nothing for them. How do you deal with this? It helps to think the person you saw was hypothetical, that they don't exist. Makes it easier during those sleepless nights caused by stray thoughts like these eating away at you. 
-      \nIf you want to be a better person, you don't have to do anything. Just listen to what the other person has to say. Be the change you want to see. It's all up to you. If I can do it, so can you. If you've read this till here, you and I are not so different. Both of us are looking for the same thing. Perhaps, we can find it together. 
-      \nKnow your worth. You deserve to be happy, even if it means being alone. While you can, nip whatever problem you have in the bud before it grows and becomes a parasite that feeds on your happiness. Don't let it grow. Don't let it take over yourself. 
-      \nI hope you find what you're looking for. I hope you find peace. I hope you find love. I hope you find yourself.` 
-    }, 
+    
     { id:"static", 
       title:"Drowning", 
+      date:"2025-08-22",
       content:`Falling through the static 
       \nHearts are automatic 
       \nNow my soul is paper thin 
@@ -77,6 +248,7 @@ export const poems = [
       \nBut I was the only thing that’s real` }, 
     { id:"things-i-see", 
       title:"The Things I See", 
+      date:"2024-05-23",
       content:`The things I see when all of my friends are 
       \nGoing out to play 
       \nhow can I know, you're calling me selfish 
@@ -100,6 +272,7 @@ export const poems = [
     {
        id:"miss-you-friend", 
        title:"RIP", 
+       date:"2025-07-19",
        content:`Where does my heart go when you die? 
        \nAre you right here? 
        \nDown my face flows a tear 
@@ -119,6 +292,7 @@ export const poems = [
       }, 
       { id:"fade", 
         title:"Fade", 
+        date:"2025-09-01",
         content:`When you say my name 
         \nIt doesn't sound the same 
         \nOnce in a while 
@@ -137,6 +311,7 @@ export const poems = [
       {
         id: "hey-little-girl",
         title: "Little Girl",
+        date:"2025-07-22",
         content: `Hey, little girl  
       \nWhy don't you fall?  
       \nRight out of the sky?
@@ -169,6 +344,7 @@ export const poems = [
     {
       id: "truths",
       title: "Flatline",
+      date:"2025-08-09",
       content: `Calling out truths that I tried to leave behind
       \nI’m gonna break time
       \nTwist the hands and realign
@@ -184,9 +360,11 @@ export const poems = [
 \nYou’re just a frame for the war
 \nI was born to win.`
     },
+    
     {
       id: "whereiendthereshebegan",
       title: "Where I End There She Began",
+      date:"2025-09-25",
       content: `I woke up as usual. Or at least, I thought I had. My alarm had already rung hours ago, at 4:15, and yet when I looked at the clock, it read 2:45. The hands moved backwards, tick by tick, as if time itself was rejecting me.
 
 I looked outside. The sky wasn’t dark, not exactly. It was a suffocating red, too bright to be night, too heavy to be day. The sun hung there like a wound. Black at the center, bleeding light around the edges. I shut the curtains quickly, telling myself it was just a dream, an uncomfortable illusion.
@@ -267,53 +445,11 @@ I stepped closer because that is what you do when you need an answer. Across fro
 I looked into the mirror.\n
 `
     },
-    {
-      id:'ashrose',
-      title:"Hideous beauty",
-      content:`There’s a kind of death that doesn’t need blood or silence to exist.\n
-It happens slowly. \n
-In daylight, between polite smiles and nods. You start to rot from the inside while everyone around you insists you look fine.\n
-
-I’m burnt out. Not from study. Not from work. Not from life. From people.\n
-
-From the constant, buzzing noise of others who demand to be seen while never really looking at you. From the way they ask how you are only so they can talk about themselves. From the endless apologies that sound like pity, not remorse.
-They drain you and call it connection. They misunderstand you and call it concern.\n
-
-I used to think love could fix that. I still do. That patience could soften the indifference, that empathy could teach them and me how to care. But empathy is a sad thing when it’s one sided. You pour and pour until your soul is empty and aching, and still, someone asks why you’ve become distant.\n
-
-You start to fade in strange ways. You forget how to talk about yourself. You look into the mirror and practice the perfect smile for them. You forget how to cry without shame. You start apologizing before you even speak.
-You become quiet in a way that feels irreversible.\n
-
-People mistake this for growth. The way you no longer fight back, the way you nod when you’re blamed, the way you stay calm while your insides twist.
-But it’s not growth. It’s corrosion. It’s surrender disguised as peace.\n
-
-Sometimes I think I’ve learned too much about people. How they can use kindness like a weapon. How they can wound you gently, without ever raising their voice.\n
-They call it many different names. But you learn to recognize the undertone. The faint scent of control, the quiet expectation that you’ll always be available to absorb their storms.\n
-
-You start to despise the sound of your own name in their mouths.\n
-It sounds like ownership. Everytime you open your mouth to talk to them, it feels like you've swallowed sand.\n
-
-And yet, you keep them around. \n
-Out of guilt. \n
-Out of fear. \n
-Out of habit. \n
-You tell yourself you can’t afford to lose more people, even if the ones you have are already killing you bit by bit. Pixel by pixel. Message by message.\n
-
-There’s no single breaking point, no dramatic ending. Just a gradual detachment. A quiet unhooking of your soul from the world.\n
-You smile less. You speak less. You start to exist behind glass, watching yourself interact, pretending you’re still human. You'll be fine, better actually, but you're not actually thriving. \n
-
-And one day, you realize something terrifying.\n
-You’ve become the ghost they always accused you of being.\n
-
-You look at your reflection and there’s no grief left. There is just the faint memory of it.\n
-You don’t hate them. You don’t love them either.\n
-You just don’t care.\n
-
-The slow, beautiful stillness of ash mystifies me.\n`
-    },
+    
     {
       id:"compiler crush",
       title:"Dumpstack.log",
+      date:"2025-10-24",
       content:`>>> /sys/logs/dumpstack_2025-10-24_03:17:42.log  
     >>> SYSTEM ALERT: Unexpected emotional surge detected.  
     >>> Process: compiler.exe  
@@ -379,6 +515,7 @@ The slow, beautiful stillness of ash mystifies me.\n`
     {
       id:"alarm",
       title:"Alarm",
+      date:"2025-10-31",
       content:`
       <iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay'
       src='https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/yamicreator/daybreak&color=%231a1a1a&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false'>
@@ -458,6 +595,7 @@ And maybe that’s enough. For now.
     {
       id:"renounce",
       title:"Renounce",
+      date:"2025-10-12",
       content:`I’ve lived a hundred different lives already.
 Like pieces of old versions of me are scattered somewhere. Girls who trusted too easily, girls who apologized for breathing too loudly, girls who dimmed themselves because the room couldn’t handle the wattage.
 I look for them sometimes, but halfway through, I decide I'm done.
@@ -518,29 +656,7 @@ Either way, I’m moving.
 
 `
     }, 
-    {
-      id:"notitle",
-      title:"xoxo",
-      content:`Silver echoes fading slow\n
-Hands let go of what we know\n
-What was once shared refrain\n
-Is now a door that won’t remain open again\n
-
-One walked on with steady light\n
-Choosing truth over the fight\n
-The other turned, hardened inside\n
-Letting bitterness be their guide\n
-
-Oh time, show me the light\n
-I know I am there…\n
-Through the dark I still can see\n
-Who I’m becoming, quietly free\n
-
-What once aligned now drifts apart\n
-Some distances outgrow the start\n
-Curtains close with a ripple\n
-And never turn when paths come round\n`
-    }
+    
     
     
 ];
