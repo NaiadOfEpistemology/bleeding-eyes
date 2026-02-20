@@ -27,6 +27,29 @@ export const poems = [
       \nI hope you find what you're looking for. I hope you find peace. I hope you find love. I hope you find yourself.` 
     }, 
     {
+      id:"death",
+      title:"Death",
+      date:"2026-02-20",
+      content:`
+\nShe came on black horses,
+\ngalloping in silence.
+\nShe saw me lying there,
+\nweak and frail,
+\nmy love holding my cold hand.
+
+\nShe sat beside my bed
+\n“My dear,” she whispered,
+\nand her voice was neither hollow
+\nnor cruel.
+
+\nMy love wept, \nTears warm on my dying skin.
+\nBut Death did not pull. \nShe only waited \nuntil the last warmth slipped from my fingers, \nuntil my pulse lost its way in the dark.
+
+\nFlowers are already dreaming \nin the soil that would hold me. \nAbove, \nthe sky made room.
+\nAnd when my ashes may rise one day \non a gentle wind, \nthey will learn to shimmer like stars, \nkeeping watch over the world 
+\nwhich once nested me.`
+    },
+    {
       id:"nostalgia",
       title:"Nostalgia",
       date:"2026-01-25",
