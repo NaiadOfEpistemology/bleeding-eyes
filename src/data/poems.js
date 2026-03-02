@@ -27,6 +27,90 @@ export const poems = [
       \nI hope you find what you're looking for. I hope you find peace. I hope you find love. I hope you find yourself.` 
     }, 
     {
+      id:"gooddays",
+      title:"Good Days Are Here",
+      date:"2026-03-02",
+      content:`Lately, I’ve been better, and that is what creeps me out the most.
+\nThere was no dramatic breakthrough, no epiphany that split my life into before and after, no cinematic moment where everything rearranged itself into clarity. There was just a quiet, almost suspicious shift in the atmosphere of my own mind, like the way rain just stops. I wake up and it doesn’t feel like someone punched the air out of my lungs. I move through the day without constantly bracing for something to go wrong. I’m laughing. I’m living. I’m stable, capable, fine.
+\nAnd that terrifies me.
+\nBecause every time things have felt steady in my life, something eventually tilted. Someone drifted. Something fractured in a way I couldn’t repair. A version of me disappeared and I had to become someone harder, sharper, more contained to compensate for the loss.
+\nSo now in the middle of calm, my mind rehearses disaster the way some people rehearse gratitude. It says that this is temporary, that happiness has an expiration date. It tells me not to relax too much, not to lean in too deeply, not to let my guard dissolve just because the air around me is breathable again.
+\nMaybe I’m not afraid of people leaving.
+\nMaybe I’m afraid of how much I care that they could.
+\nWhen you’ve built yourself from survival, happiness feels like it’s made of glass. You monitor it. You analyze it. You hold it at an arm’s length so it doesn’t have the chance to betray you. You start preparing for its exit before it even arrives, because if you expect the loss, it won’t hollow you out when it finally comes.
+\nBut the strange thing is that nothing is happening. No one is packing their bags. No one is threatening that they’ll go. The fear exists entirely in the space between my ribs, in the old wiring that learned early on that love is conditional, stability is fragile, and attachment is dangerous.
+\nI have always been “the strong one.”
+\nThe composed one. The dependable one. The level headed one. The one who doesn’t fall apart in public and doesn’t ask for too much and doesn’t let her voice shake when she’s explaining something that hurts.
+\nPeople say it like it’s a compliment, like strength is something I cultivated in a safe environment, like it wasn’t built from necessity.
+\nThey don’t know how heavy it is to keep your chin up when your throat feels like it’s closing. They don’t know what it costs to maintain eye contact when your vision blurs because you refuse to let tears fall in front of just anyone. They don’t know how practiced you become at swallowing emotion mid sentence so the room never suspects that you are unraveling internally while appearing articulate and composed externally.
+\nBeing the strong one means you don’t get held.
+\nIt means when you cry, you do it so no one hears. No one can witness the way your body collapses into itself. It means you wash your face, pat it dry, regulate your breathing, flash a smile in the mirror, and step back into the world like you didn’t have a rave within yourself.
+\nNo one thinks you need saving because you have built a life around appearing unbreakable.
+\nAnd sometimes the loneliness is subtle. It’s sitting in a room full of people and realizing that if you stopped performing, if you stopped filling the silence, if you stopped making yourself digestible and easy and impressive, you’re not entirely sure who would stay.
+\nI have gotten very good at translating my pain into something intellectual, something almost clinical, something that sounds self aware enough to not be alarming. If I can analyze it, I don’t have to feel it. If I can explain it clearly, it won’t expose me as fragile. If I can make it logical, it doesn’t mean I’m weak.
+\nHowever, logic doesn’t hold you at night.
+\nLogic doesn’t sit beside you when the silence grows and your chest aches for something softer than self sufficiency.
+\nAnd when those nights come, when the room feels too small, I turn on myself.
+\nYou’re dramatic.
+\nYou’re too sensitive.
+\nYou expect too much.
+\nYou’re just unlovable.
+\nIt’s very easy to gaslight yourself when you’ve been conditioned to believe that your needs are inconveniences. It’s disturbingly easy to rewrite your exhaustion as inadequacy, your longing as weakness, your fear as proof that something is fundamentally wrong with you.
+\nParent issues complicate this in ways I don’t want to admit.
+\nWhen love feels conditional growing up. When approval is tied to performance, obedience, composure, achievement… you internalize something corrosive : that love is earned, that it must be maintained through effort, that if you stop being exceptional you will become invisible. You learn to become easy. Easy to praise. Easy to rely on. Easy to manage.
+\nYou don’t need too much. You don’t ask the same question twice. You become the child who doesn’t burden anyone.
+\nAnd that child grows up.
+\nAnd she still doesn’t burden anyone.
+\nEven when she is drowning. Even when she is exhausted from carrying expectations that were never hers to begin with. Even when she is terrified that if she stops being impressive, she will stop being worth staying for.
+\nSo when I sit in uncomfortable silence now, in rooms where someone important is present and the air feels expectant, and I choose not to perform, it isn’t because I don’t know how.
+\nI know exactly how.
+\nI have outperformed myself in every space that ever mattered. Academically. Personally. Professionally. Socially. Emotionally. You name it. I have walked into rooms and adjusted my tone, my posture, my intelligence, my humor, my warmth with surgical precision. I know how to be impressive without being intimidating, charming without being loud, composed without appearing cold. I know how to anticipate what people want and deliver it before they even articulate it.
+\nThat’s the problem.
+\nWhen you are capable of outperforming yourself everywhere, the performance becomes invisible. People think that’s just who you are. You’re effortless, stable, exceptional. They don’t see the calibration happening in real time. They don’t see the internal checklist running quietly in the background.
+\nIs everyone comfortable?
+\nIs the energy balanced?
+\nAm I too much? Too little?
+\nHave I said enough? Too much?
+\nAnd so when I choose silence now, when I let the air sit heavy and resist the urge to smooth it over with wit or reassurance or competence, it feels like rebellion against a system I perfected.
+\nIt feels like I am risking the very thing that made me valuable.
+\nBecause if I don’t outperform, what remains?
+\nAt first, the silence feels wrong. It feels irresponsible. Like I am neglecting a duty I trained my entire life to fulfill. I was raised to believe that excellence secures love, that composure prevents conflict, that anticipation keeps people close. I became the emotional climate control in every room not because I wanted to but because I learned that tension is dangerous and I was the safest one to neutralize it.
+\nI didn’t just perform. I optimized everything. And when you’ve done that to yourself for long enough, stopping feels like sabotage.
+\nThere is power in not performing. Mystery is sexy. But for someone who has built her identity on outperforming, that power feels unstable. It feels like stepping away from the version of yourself that has always guaranteed survival.
+\nYet something inside me is tired of maintenance. Tired of being the one who senses emotional shifts before they’re spoken. Tired of outperforming in conversations that should not require metrics.
+\nBecause the truth is, outperforming everywhere leaves no space to collapse anywhere.
+\nAnd I am tired of having nowhere to collapse.
+\nThere is power in letting the room remain heavy, yes, but for me, it is more than power. It is reclamation. It is choosing not to earn my place through excellence for once. It is letting someone sit in my unoptimized presence and deciding that if they cannot handle it, I will not reconfigure myself to make it easier.
+\nI have been exceptional enough.
+\nIf I stay quiet now, it is not because I lack capability.
+\nIt is because I refuse to keep proving it.
+\nStill, the fear lingers.
+\nIf I stop trying so hard, will something collapse?
+\nIf I let myself rest, will people realize I am not as invincible as they thought?
+\nIf I allow myself to be less polished, will they drift?
+\nMaybe the sadness I feel at the thought of people leaving isn’t about abandonment at all. Maybe it is about detachment. Maybe it is about shedding the roles that once guaranteed connection and wondering what remains when the performance ends.
+\nBecause the more I stop performing, the more I realize how many connections were sustained by my effort alone.
+\nThat realization hurts.
+\nIt means if something falls away, it might not be because I failed. It might be because I finally stopped overfunctioning.
+\nAnd I don’t know who I am yet without that overfunctioning.
+\nI don’t know who I am if I’m not the strong one, the exceptional one, the composed one.
+\nBut I am learning something that feels both terrifying and freeing:
+\nHappiness does not require me to be on guard.
+\nLove does not require constant proof.
+\nSilence does not require immediate repair.
+\nAnd strength does not have to mean solitude.
+\nStill, there is a part of me that keeps a distance, that keeps a private chamber sealed off from everyone, no matter how close they stand. A part that has learned that survival sometimes depends on withholding. A part that knows that if I ever fully unfiltered myself, fully dropped the composure, fully let the fear and anger and exhaustion spill out without refinement, it would change the way I am seen.
+\nSo I exist in this in between.
+\nHappier, yes. Softer in certain corners. Less frantic. Less desperate to secure permanence through excellence.
+\nBut still guarded.
+\nStill careful.
+\nStill aware that no matter how much I share, how self aware I sound, how transparent I appear, there is a version of me that remains untouched, unperformed, unseen.
+\nAnd maybe that is the final layer of strength.
+\nYou will never ever know the real me.`
+
+
+    },
+    {
       id:"death",
       title:"Death",
       date:"2026-02-20",
