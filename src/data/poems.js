@@ -2,16 +2,19 @@ export const poems = [
     { id: "about-me", 
       title: "Who I Am", 
       date:"2025-07-19",
-      content: `I appreciate your interest in coming here. 
-      \nI am TM. I am an author. And a screenwriter. I published two e books in 2020. After that, I had to go back to school. I am currently pursuing a degree in Computer Science, which I like. I currently work as a Java dev intern at a well known MNC. I also worked as an AI Engineer intern, and a curriculum developer. 
-      \nI like to write poetry, short stories, and novels. I also like to write code. This is a break from the usual things I do. I am getting back to doing what I once liked. 
-      \nI hope you like my works. These are a collection I've found scattered around everywhere, in my notes, at the back of my books, stray papers. 
-      \nI do not have any social media except where you came from. 
-      \nIf I could rate myself on a scale of 1-10, I'd give myself an 8. I am not perfect, but I am working on it. 
-      \nThese poems weren't written to be perfect. They were written to be honest. If you found this page, maybe you're looking for something too. 
-      \nComing back to the facade I put in front of people, I'm a jack of all trades. We can chat about ML. I can work with LLMs. I can code in many different languages. I can solve math problems. I like organic chemistry. 
-      \nIf you know me in real life, I apologize. 
-      \nThat's it about me. Have a good day or good night, wherever you're from.`
+      content:`I appreciate your interest in coming here.
+      \nI am TM. I am an author and a screenwriter. I published two e-books in 2020, and afterwards, life pulled me back into academics again. I am currently pursuing a degree in Computer Science, which, surprisingly, I genuinely enjoy. I currently work as a SecOps Engineer and previously worked as a Java Developer intern at a well-known MNC. Before that, I also worked as an AI Engineer intern and as a curriculum developer.
+      \nMost people know me through work, deadlines, technical conversations, presentations, and problem-solving. But before all of that, I liked writing. I liked stories. I liked staying awake at unreasonable hours because a sentence finally sounded right in my head. Somewhere along the way, I buried that version of myself under responsibilities, expectations, achievements, and survival. This website is me digging those pieces back up again.
+      \nI write poetry, short stories, blogs, fragments, unfinished thoughts, and things I probably should keep to myself. Some of these writings were found in old notebooks, some at the back of textbooks, the list goes on. None of them were written to impress anyone. They were written because sometimes feelings become too heavy to carry silently.
+      \nI also like to write code. In another life, I think I would have liked becoming a full-time writer. In this one, I ended up becoming both technical and emotional at the same time. I can discuss machine learning, LLMs, cyber security, low-level systems, mathematics, and then disappear for hours thinking about a single sentence I wrote months ago.
+      \nIf I could rate myself on a scale of 1–10, I would probably give myself an 8 on a good day. Not because I think I am extraordinary, but because I know how hard I worked to become someone functional despite everything happening internally.
+      \nThese writings are not perfect. Neither am I. I think that is the point. I have spent too much of my life trying to perform perfection in real life. This is one of the few places where I allow myself to be honest instead.
+      \nOutside of this website, people often see me as composed, capable, intelligent, disciplined... someone who has things under control. And maybe I do, sometimes. But there is also another version of me that exists quietly underneath all of that. Tired. Reflective. Angry sometimes. Hopeful despite everything. Someone trying very hard to become softer without falling apart.
+      \nI am a jack of all trades in the most inconvenient way possible. I like organic chemistry. I like literature. I like obscure technical concepts. I like psychology. I like music that sounds like loneliness. I like silence when it feels safe.
+      \nI do not really use social media except wherever you came from.
+      \nAnd if you know me in real life, I apologize.
+      \nThat is enough about me.
+      \nHave a good day or good night, wherever you are from.`
     }, 
     { id:"why", 
       title:"What People Think Of Me",
@@ -26,6 +29,117 @@ export const poems = [
       \nKnow your worth. You deserve to be happy, even if it means being alone. While you can, nip whatever problem you have in the bud before it grows and becomes a parasite that feeds on your happiness. Don't let it grow. Don't let it take over yourself. 
       \nI hope you find what you're looking for. I hope you find peace. I hope you find love. I hope you find yourself.` 
     }, 
+    {
+      id:"unsafe",
+      title:"I Don't Want To Go Home Yet",
+      date:"2026-05-14",
+      content:`
+
+I think the hardest thing to admit is that I don’t like being home anymore.
+
+Even writing that fills me with guilt.
+
+Because home is supposed to mean safety to people. Warmth. Familiarity. Relief. It’s supposed to be the place you return to after the world exhausts you. The place where you can finally loosen your shoulders and stop performing.
+
+But lately, walking through the front door feels like putting armor back on.
+
+Nothing catastrophic even has to happen. Sometimes it’s just the anticipation of criticism that exhausts me before a single word is spoken. The feeling that somehow, despite trying so hard to be good, to be responsible, to be accomplished, to be easy to live with, I will still be reduced to a problem waiting to be corrected.
+
+And after enough years, something inside you starts to rot from that.
+
+People think emotional exhaustion always comes from dramatic trauma, screaming matches, broken homes. Sometimes it comes from quieter things. Constant nitpicking. Never feeling enough. Feeling watched all the time. Feeling like your mistakes are magnified while your efforts dissolve into the background because competence became expected from you long ago.
+
+I don’t think people understand what it does to someone when they are only noticed most intensely when they fail.
+
+You begin living defensively.
+
+You start rehearsing conversations before they happen. You monitor your tone. You think three times before speaking because you’re trying to predict which version of your words will cause the least friction. Even your own room stops feeling private because your nervous system never fully believes it is safe to relax.
+
+And the worst part is how invisible this kind of pain looks from the outside.
+
+Because technically, nothing is “wrong.”
+
+The house still stands.
+Everyone still talks.
+Life continues normally.
+
+But emotionally, it feels like being slowly sanded down into something smaller.
+
+There are days where I stay out longer than necessary because the silence outside feels gentler than the atmosphere inside. Days where I sit somewhere for an extra thirty minutes just to delay walking back in. Days where I hear the front door open and immediately feel my body tense without even realizing it.
+
+I hate that my body reacts before my mind does.
+
+I hate that I’ve become so hyperaware of footsteps, moods, tones, small shifts in energy. I hate how quickly peace evaporates the moment tension enters the room, even if nobody says anything directly cruel.
+
+And somehow I still blame myself for it.
+
+That’s the part nobody talks about enough. How easy it becomes to gaslight yourself when you grow up constantly being corrected. You start believing your emotional reactions are overreactions. You convince yourself you’re too sensitive, too dramatic, too weak for being affected by things that “aren’t that serious.”
+
+So you keep enduring.
+
+You keep smiling politely.
+You keep your voice steady.
+You keep functioning.
+
+Until one day you realize you have become deeply lonely inside your own home.
+
+And loneliness inside a crowded house is a very specific kind of pain.
+
+Because you start feeling emotionally homeless while technically having a place to live.
+
+Sometimes I wonder if anyone notices how hard I try.
+
+How hard I try to keep things peaceful.
+How hard I try to not make life difficult for anyone.
+How hard I try to deserve softness.
+
+I think a part of me genuinely believed that if I became perfect enough, useful enough, successful enough, calm enough, eventually the criticism would stop. Eventually I would become easy to love.
+
+But perfection is a moving target in environments where emotional tension is already built into the walls.
+
+So now I live in this strange contradiction where I am constantly told I am capable, yet somehow still made to feel inadequate in the place that is supposed to hold me gently.
+
+And it’s exhausting to exist in both realities at once.
+
+I’m tired of being emotionally alert all the time.
+
+Tired of carrying conversations carefully.
+Tired of swallowing reactions before they fully form.
+Tired of feeling guilty for wanting distance from an environment that drains me.
+
+Sometimes I fantasize about living alone, not because I hate people, but because I cannot even imagine what it would feel like to exist somewhere without anticipating emotional impact every few hours.
+
+To wake up and not immediately check the emotional temperature of the house.
+To exist without defending myself preemptively.
+To make mistakes without feeling like my entire character is being evaluated through them.
+
+I think people underestimate how deeply home life shapes your inner voice.
+
+After enough criticism, eventually the voices follow you even into empty rooms. Nobody has to say anything anymore because your mind already learned the script by heart.
+
+And maybe that’s why I feel so tired lately.
+
+Not physically.
+
+Soul-tired.
+
+The kind of tired that comes from constantly carrying yourself emotionally because somewhere along the way you stopped expecting comfort to arrive from anywhere else.
+
+Still, despite everything, I keep trying.
+
+I still clean my room sometimes hoping it will make things feel lighter.
+I still try to speak gently.
+I still try to believe that maybe things will soften one day.
+
+But some nights I sit quietly in my room and realize how badly I just want to feel safe in my own home.
+
+Not impressive.
+Not useful.
+Not resilient.
+
+Just safe.
+`
+    },
     {
       id:"gooddays",
       title:"Good Days Are Here",
