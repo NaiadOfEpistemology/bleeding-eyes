@@ -240,11 +240,11 @@ Just safe.
 \nand her voice was neither hollow
 \nnor cruel.
 
-\nMy love wept, \nTears warm on my dying skin.
-\nBut Death did not pull. \nShe only waited \nuntil the last warmth slipped from my fingers, \nuntil my pulse lost its way in the dark.
+\nMy love wept,\nTears warm on my dying skin.
+\nBut Death did not pull.\nShe only waited\nuntil the last warmth slipped from my fingers,\nuntil my pulse lost its way in the dark.
 
-\nFlowers are already dreaming \nin the soil that would hold me. \nAbove, \nthe sky made room.
-\nAnd when my ashes may rise one day \non a gentle wind, \nthey will learn to shimmer like stars, \nkeeping watch over the world 
+\nFlowers are already dreaming\nin the soil that would hold me.\nAbove,\nthe sky made room.
+\nAnd when my ashes may rise one day\non a gentle wind,\nthey will learn to shimmer like stars,\nkeeping watch over the world 
 \nwhich once nested me.`
     },
     {
